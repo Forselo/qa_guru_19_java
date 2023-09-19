@@ -38,7 +38,7 @@ public class Main {
         System.out.println("true&&false = "+ (a && b));
         System.out.println("true||false = "+ (a || b));
         System.out.println("!true = "+ (!a));
-        System.out.println("\"petr\"==\"petr\" = " + ("petr" == petr)); //не получилось false получить
+        System.out.println("\"per\"==\"petr\" = " + ("per" == petr));
         String c = (a || b) ? "true" : "false";
 
         //Переполнение
